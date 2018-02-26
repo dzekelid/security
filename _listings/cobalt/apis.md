@@ -1,0 +1,32 @@
+---
+name: Cobalt
+description: Cobalt offers you agile time-limited security assessments as well as
+  ongoing bug bounty programs - the choice is yours. With our Bug Bounty Programs,
+  you pay per bug, not per hour, and you set the bounty sizes as you think appropriate.???You
+  can choose from public or private programs. We can also manage your program for
+  you.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cobalt-logo.png
+x-kinRank: "8"
+x-alexaRank: ""
+tags:
+- Stack Network
+- Security
+- Security
+created: "2018-02-26"
+modified: "2018-02-26"
+url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/cobalt/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: https://cobalt.io/blog
+- type: x-twitter
+  url: https://twitter.com/cobalt_io
+- type: x-website
+  url: https://cobalt.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
