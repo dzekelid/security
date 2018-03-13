@@ -28,7 +28,7 @@ apis:
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/aws-rds/action-createdbsecuritygroup-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/aws-rds/action-deletedbsecuritygroup-get.md
 x-common:
 - type: x-articles
   url: https://aws.amazon.com/articles/Amazon-RDS
