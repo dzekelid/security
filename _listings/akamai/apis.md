@@ -33,7 +33,7 @@ apis:
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/akamai/config-media-security-v1-security-policyid-promotedelete-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/akamai/config-media-security-v1-security-policyid-revertdelete-put.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
