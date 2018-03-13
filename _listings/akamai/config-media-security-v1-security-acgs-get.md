@@ -19,10 +19,9 @@ paths:
         200:
           description: OK
       tags:
-      - config
+      - configurations
       - media
       - security
-      - v1
       - security
       - acgs
 definitions: []
