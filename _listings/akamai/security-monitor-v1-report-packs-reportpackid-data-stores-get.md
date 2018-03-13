@@ -26,7 +26,6 @@ paths:
       tags:
       - security
       - monitor
-      - v1
       - report
       - packs
       - reportpack
