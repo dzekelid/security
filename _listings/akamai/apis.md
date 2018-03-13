@@ -33,7 +33,7 @@ apis:
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/akamai/security-monitor-v1-report-packs-reportpackid-data-stores-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/akamai/security-monitor-v1-report-packs-reportpackid-data-stores-datastoreid-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
