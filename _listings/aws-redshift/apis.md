@@ -30,7 +30,7 @@ apis:
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/action-createclustersecuritygroup-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/action-deleteclustersecuritygroup-get.md
 x-common:
 - type: x-best-practices
   url: https://aws.amazon.com/redshift/developer-resources/#best-practices
