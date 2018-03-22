@@ -24,9 +24,9 @@ tags:
 - Compute
 - Availability
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/aws-elastic-load-balancing/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elastic-load-balancing/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS Elastic Load Balancing API
@@ -38,7 +38,7 @@ apis:
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/aws-elastic-load-balancing/action-setsecuritygroups-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elastic-load-balancing/action-setsecuritygroups-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/elbv2/index.html
