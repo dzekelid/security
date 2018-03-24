@@ -15,8 +15,8 @@ tags:
 - Data Warehouse
 - Data
 - Amazon Web Services
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -30,7 +30,7 @@ apis:
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/action-revokeclustersecuritygroupingress-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/action-authorizeclustersecuritygroupingress-get.md
 x-common:
 - type: x-best-practices
   url: https://aws.amazon.com/redshift/developer-resources/#best-practices
