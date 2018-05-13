@@ -34,7 +34,31 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-ec2/action-revokesecuritygroupingress-get.md
+- name: AWS EC2 API Authorize Security Group Egress ( E C2- V P C only)
+  description: '[EC2-VPC only] Adds one or more egress rules to a security group for
+    use with a VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: http:://{host}//
+  tags: Security
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-ec2/action-authorizesecuritygroupegress-(ec2-vpc-only)-get.md
 x-common:
+- type: x-code
+  url: http://aws.amazon.com/code/Amazon-EC2/
+- type: x-documentation
+  url: http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
+- type: x-faq
+  url: https://aws.amazon.com/ec2/faqs/
+- type: x-getting-started
+  url: https://aws.amazon.com/ec2/getting-started/
+- type: x-pricing
+  url: https://aws.amazon.com/ec2/pricing/
+- type: x-sla
+  url: https://aws.amazon.com/ec2/sla/
+- type: x-website
+  url: https://aws.amazon.com/ec2/
 - type: x-code
   url: http://aws.amazon.com/code/Amazon-EC2/
 - type: x-documentation
