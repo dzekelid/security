@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 API
+  title: AWS EC2 API Authorize Security Group Egress ( E C2- V P C only)
   version: 1.0.0
+  description: '[EC2-VPC only] Adds one or more egress rules to a security group for
+    use with a VPC.'
 schemes:
 - http
 produces:
