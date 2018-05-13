@@ -31,15 +31,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/action-revokeclustersecuritygroupingress-get.md
-- name: Amazon Redshift API Describe Cluster Security Groups
-  description: Returns information about Amazon Redshift security groups.
+- name: Amazon Redshift API Revoke Cluster Security Group Ingress
+  description: |-
+    Revokes an ingress rule in an Amazon Redshift security group for a previously authorized
+                IP range or Amazon EC2 security group.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRedshift.png
   humanURL: https://aws.amazon.com/redshift/
   baseURL: http:://{host}//
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/action-describeclustersecuritygroups-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/action-revokeclustersecuritygroupingress-get.md
 x-common:
 - type: x-best-practices
   url: https://aws.amazon.com/redshift/developer-resources/#best-practices
