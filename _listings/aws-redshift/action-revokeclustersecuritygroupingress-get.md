@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Redshift API
+  title: Amazon Redshift API Revoke Cluster Security Group Ingress
   version: 1.0.0
+  description: |-
+    Revokes an ingress rule in an Amazon Redshift security group for a previously authorized
+                IP range or Amazon EC2 security group.
 schemes:
 - http
 produces:
