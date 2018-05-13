@@ -34,15 +34,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-ec2/action-revokesecuritygroupingress-get.md
-- name: AWS EC2 API Describe Security Groups
-  description: Describes one or more of your security groups.
+- name: AWS EC2 API Describe Stale Security Groups ( E C2- V P C only)
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
   humanURL: https://aws.amazon.com/ec2/
   baseURL: http:://{host}//
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-ec2/action-describesecuritygroups-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-ec2/action-describestalesecuritygroups-(ec2-vpc-only)-get.md
 x-common:
 - type: x-code
   url: http://aws.amazon.com/code/Amazon-EC2/
