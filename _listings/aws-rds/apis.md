@@ -29,15 +29,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-rds/action-revokedbsecuritygroupingress-get.md
-- name: Amazon RDS API Authorize D B Security Group Ingress
-  description: Enables ingress to a DBSecurityGroup using one of two forms of authorization.
+- name: Amazon RDS API Create D B Security Group
+  description: Creates a new DB security group.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRDS.png
   humanURL: https://aws.amazon.com/rds/
   baseURL: http:://{host}//
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-rds/action-authorizedbsecuritygroupingress-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-rds/action-createdbsecuritygroup-get.md
 x-common:
 - type: x-articles
   url: https://aws.amazon.com/articles/Amazon-RDS
