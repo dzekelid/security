@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 API
+  title: AWS EC2 API Describe Security Group References ( E C2- V P C only)
   version: 1.0.0
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
 schemes:
 - http
 produces:
