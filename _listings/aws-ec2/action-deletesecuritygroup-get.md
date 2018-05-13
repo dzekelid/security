@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 API
+  title: AWS EC2 API Delete Security Group
   version: 1.0.0
+  description: Deletes a security group.
 schemes:
 - http
 produces:
