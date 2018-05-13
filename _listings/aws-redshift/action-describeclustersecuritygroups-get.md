@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Redshift API
+  title: Amazon Redshift API Describe Cluster Security Groups
   version: 1.0.0
+  description: Returns information about Amazon Redshift security groups.
 schemes:
 - http
 produces:
