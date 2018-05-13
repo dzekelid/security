@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Redshift API
+  title: Amazon Redshift API Authorize Cluster Security Group Ingress
   version: 1.0.0
+  description: Adds an inbound (ingress) rule to an Amazon Redshift security group.
 schemes:
 - http
 produces:
