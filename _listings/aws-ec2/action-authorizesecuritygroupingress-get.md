@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 API
+  title: AWS EC2 API Authorize Security Group Ingress
   version: 1.0.0
+  description: Adds one or more ingress rules to a security group.
 schemes:
 - http
 produces:
