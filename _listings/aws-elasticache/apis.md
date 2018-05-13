@@ -34,17 +34,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elasticache/action-revokecachesecuritygroupingress-get.md
-- name: Amazon ElastiCache API Describe Cache Security Groups
+- name: Amazon ElastiCache API Revoke Cache Security Group Ingress
   description: |-
-    Returns a list of cache security group
-                descriptions.
+    Revokes ingress from a cache
+                security group.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonElasticCache.png
   humanURL: https://aws.amazon.com/elasticache/
   baseURL: http:://{host}//
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elasticache/action-describecachesecuritygroups-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elasticache/action-revokecachesecuritygroupingress-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/AmazonElastiCache/latest/APIReference/Welcome.html
