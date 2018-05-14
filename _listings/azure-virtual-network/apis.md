@@ -27,17 +27,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-virtual-network/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-network-networksecuritygroups-networksecuritygroupname-securityrules-get.md
-- name: Azure Virtual Network API Network Security Groups List
-  description: Gets all network security groups in a resource group.
+- name: Azure Virtual Network API Security Rules Delete
+  description: Deletes the specified network security rule.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-network-topology.png
   humanURL: https://azure.microsoft.com/en-us/services/virtual-network/
   baseURL: http:://management.azure.com//
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-virtual-network/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-network-networksecuritygroups-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-virtual-network/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-network-networksecuritygroups-networksecuritygroupname-securityrules-securityrulename-delete.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-virtual-network/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-network-networksecuritygroups-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-virtual-network/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-network-networksecuritygroups-networksecuritygroupname-securityrules-securityrulename-delete-postman.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/virtual-network/
