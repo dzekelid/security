@@ -1,31 +1,40 @@
 ---
 name: AXA Assistance
+x-slug: axa-assistance
 description: AXA Assistance is a worldwide specialist for car insurance, travel, health
   and home services. Trust in Axa Assistance for your insurance!
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
 x-kinRank: "8"
 x-alexaRank: "2107685"
-tags:
-- Technology
-- New
-- internet
-- Insurance
-created: "2018-05-13"
-modified: "2018-05-13"
+tags: Security
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/apis.md
 specificationVersion: "0.14"
 apis:
 - name: AXA Assistance Retrieve security information for a country
+  x-api-slug: axa-assistance
   description: Retrieve security information for a country
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
+  humanURL: https://www.axa-assistance.com
+  baseURL: https://sandbox.api.axa-assistance.com////information/v1/countries/{country_id}/security_cards
+  tags: Insurance,Retrieve, security, informationa, country
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/informationv1countriescountry-idsecurity-cards-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/informationv1countriescountry-idsecurity-cards-get-openapi.md
+- name: AXA Assistance
+  x-api-slug: axa-assistance
+  description: AXA Assistance is a worldwide specialist for car insurance, travel,
+    health and home services. Trust in Axa Assistance for your insurance!
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
   tags: Security
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/information-v1-countries-country-id-security-cards-get.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/information-v1-countries-country-id-security-cards-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/openapi.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
