@@ -1,19 +1,14 @@
 ---
 name: scrypt
-description: Designed for the rigors of healthcare, Sfax enables you to send, receive,
-  annotate, digitally sign and manage faxes without printing a single physical document.
-  All your documents are protected by military-grade encryption within our SSAE16
-  Type 2 data centers.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sfax.png
+x-slug: scrypt
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Security
-- Fax
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/scrypt/apis.yaml
+x-alexaRank: "227199"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/scrypt/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -26,8 +21,6 @@ x-common:
 - type: x-developer
   url: http://www.sfaxme.com/community/developers/
 - type: x-pricing
-  url: https://www.scrypt.com/sfax/sign-up/
-- type: x-pricing--show-2
   url: https://www.scrypt.com/sfax/sign-up/
 - type: x-twitter
   url: https://twitter.com/scryptinc

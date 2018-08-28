@@ -1,5 +1,6 @@
 ---
 name: Azure Key Vault
+x-slug: azure-key-vault
 description: Azure Key Vault offers an easy, cost-effective way to safeguard keys
   and other secrets in the cloud by using hardware security modules (HSMs). Protect
   cryptographic keys and small secrets like passwords with keys stored in HSMs. For
@@ -12,29 +13,18 @@ description: Azure Key Vault offers an easy, cost-effective way to safeguard key
   HSMs and key management software.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-enhance-data-protection.png
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Security
-- Microsoft
-- Management
-- Authentication
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/azure-key-vault/apis.yaml
+x-alexaRank: "0"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-key-vault/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Key Vault API
-  description: Azure Key Vault offers an easy, cost-effective way to safeguard keys
-    and other secrets in the cloud by using hardware security modules (HSMs)
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-enhance-data-protection.png
-  humanURL: ""
-  baseURL: ://management.azure.com//
-  tags: Security
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/azure-key-vault/subscriptions-subscriptionid-resources-get.md
+apis: []
 x-common:
+- type: x-api-gallery
+  url: http://azure.iot.hub.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://azure.key.vault.stack.network
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/key-vault/
 - type: x-pricing

@@ -1,21 +1,15 @@
 ---
 name: Signifyd
-description: Signifyd helps e-commerce businesses sell confidently while protecting
-  them from fraud. We simplify fraud prevention with tools and expertise built on
-  our years of experience at PayPal, RSA, Fraud Sciences and FedEx. We know how to
-  interpret a users digital footprint and bridge the gap between Online and Offline
-  Identity. And we know how to do it without creating friction for legitimate users.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1941_logo.png
+x-slug: signifyd
+description: As the largest provider of Guaranteed Fraud Protection we detect fraudulent
+  orders and reimburse merchants for fraud chargebacks on any order we approved.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1941-signifyd.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Target
-- Stack Network
-- Security
-- Commerce
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/signifyd/apis.yaml
+x-alexaRank: "85706"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/signifyd/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -26,9 +20,15 @@ x-common:
 - type: x-blog-rss
   url: http://signifydblog.com/feed
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/signifyd
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/signifyd
 - type: x-developer
   url: https://www.signifyd.com/docs/api
+- type: x-email
+  url: jobs@signifyd.com
+- type: x-email
+  url: privacy@signifyd.com
 - type: x-email
   url: support@signifyd.com
 - type: x-github

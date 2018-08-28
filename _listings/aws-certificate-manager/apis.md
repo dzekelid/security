@@ -1,5 +1,6 @@
 ---
 name: AWS Certificate Manager
+x-slug: aws-certificate-manager
 description: AWS Certificate Manager is a service that lets you easily provision,
   manage, and deploy Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates
   for use with AWS services. SSL/TLS certificates are used to secure network communications
@@ -12,30 +13,18 @@ description: AWS Certificate Manager is a service that lets you easily provision
   you create to run your application.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Security
-- Encryption
-- Certificates
-- Amazon Web Services
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/aws-certificate-manager/apis.yaml
+x-alexaRank: "0"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-certificate-manager/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Certificate Manager API
-  description: AWS Certificate Manager is a service that lets you easily provision,
-    manage, and deploy Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates
-    for use with AWS services
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
-  humanURL: ""
-  baseURL: :///
-  tags: Security
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/aws-certificate-manager/action-resendvalidationemail-get.md
+apis: []
 x-common:
+- type: x-api-gallery
+  url: http://aws.batch.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://aws.certificate.manager.stack.network
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/acm/index.html
 - type: x-documentation

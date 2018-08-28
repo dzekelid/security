@@ -1,25 +1,22 @@
 ---
 name: MetaCert
-description: With headquarters in San Francisco, MetaCert is the first and only company
-  to provide a security solution that protects consumers from mobile malware and phishing
-  attacks on the app-layer. MetaCert is also the first and only company to provide
-  a Security API to help developers stop pornography from appearing inside their apps.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/meta-cert-logo.png
+x-slug: metacert
+description: Data loss detection and prevention for companies that use Team Collaboration
+  services. Protection against malicious and unwanted URLs.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18922-metacert.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Security
-- Security
-- Links
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/metacert/apis.yaml
+x-alexaRank: "136997"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/metacert/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
 - type: x-blog
   url: https://metacert.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/metacert
 - type: x-github
   url: https://github.com/metacert
 - type: x-twitter

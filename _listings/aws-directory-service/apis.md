@@ -1,5 +1,6 @@
 ---
 name: AWS Directory Service
+x-slug: aws-directory-service
 description: AWS Directory Service for Microsoft Active Directory (Enterprise Edition),
   also known as AWS Microsoft AD, enables your directory-aware workloads and AWS resources
   to use managed Active Directory in the AWS Cloud. The Microsoft AD service is built
@@ -7,35 +8,23 @@ description: AWS Directory Service for Microsoft Active Directory (Enterprise Ed
   replicate data from your existing Active Directory to the cloud. You can use standard
   Active Directory administration tools and take advantage of built-in Active Directory
   features such as Group Policy, trusts, and single sign-on. With Microsoft AD, you
-  can easily joinnbsp;Amazon EC2nbsp;andnbsp;Amazon RDS for SQL Servernbsp;instances
-  to a domain, and usenbsp;AWS Enterprise IT applicationsnbsp;such asnbsp;Amazon WorkSpacesnbsp;with
-  Active Directory users and groups.
+  can easily joinAmazon EC2andAmazon RDS for SQL Serverinstances to a domain, and
+  useAWS Enterprise IT applicationssuch asAmazon WorkSpaceswith Active Directory users
+  and groups.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Security
-- Discovery
-- Authentication
-- Amazon Web Services
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/aws-directory-service/apis.yaml
+x-alexaRank: "0"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-directory-service/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Directory Service API
-  description: AWS Directory Service for Microsoft Active Directory (Enterprise Edition),
-    also known as AWS Microsoft AD, enables your directory-aware workloads and AWS
-    resources to use managed Active Directory in the AWS Cloud
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
-  humanURL: ""
-  baseURL: :///
-  tags: Security
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/aws-directory-service/action-verifytrust-get.md
+apis: []
 x-common:
+- type: x-api-gallery
+  url: http://aws.direct.connect.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://aws.directory.service.stack.network
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/ds/index.html
 - type: x-documentation

@@ -7,35 +7,29 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-
 x-kinRank: "8"
 x-alexaRank: "2107685"
 tags: Security
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AXA Assistance Retrieve security information for a country
-  x-api-slug: axa-assistance
+- name: AXA Assistance - Retrieve security information for a country
+  x-api-slug: informationv1countriescountry-idsecurity-cards-get
   description: Retrieve security information for a country
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
-  baseURL: https://sandbox.api.axa-assistance.com////information/v1/countries/{country_id}/security_cards
-  tags: Insurance,Retrieve, security, informationa, country
+  baseURL: https://sandbox.api.axa-assistance.com//
+  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data, General
+    Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/informationv1countriescountry-idsecurity-cards-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/informationv1countriescountry-idsecurity-cards-get-openapi.md
-- name: AXA Assistance
-  x-api-slug: axa-assistance
-  description: AXA Assistance is a worldwide specialist for car insurance, travel,
-    health and home services. Trust in Axa Assistance for your insurance!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
-  humanURL: https://www.axa-assistance.com
-  baseURL: https://sandbox.api.axa-assistance.com//
-  tags: Security
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://aws.xray.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://axa.assistance.stack.network
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
 - type: x-developer

@@ -15,6 +15,22 @@ produces:
 consumes:
 - application/json
 paths:
+  /GetSecurity:
+    get:
+      summary: Get Security
+      description: Get a list of securities.
+      operationId: GetSecurity
+      x-api-path-slug: getsecurity-get
+      parameters:
+      - in: body
+        name: body
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Security
   /GetTopReleasesBySecurity:
     get:
       summary: Get Top Releases By Security

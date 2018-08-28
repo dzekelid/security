@@ -1,25 +1,34 @@
 ---
 name: Cobalt
-description: Cobalt offers you agile time-limited security assessments as well as
-  ongoing bug bounty programs - the choice is yours. With our Bug Bounty Programs,
-  you pay per bug, not per hour, and you set the bounty sizes as you think appropriate.???You
-  can choose from public or private programs. We can also manage your program for
-  you.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cobalt-logo.png
+x-slug: cobalt
+description: Cobalt.io is the future of penetration testing. We leverage global talent
+  and a software platform to deliver a better penetration test.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18903-cobalt.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Security
-- Security
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/cobalt/apis.yaml
+x-alexaRank: "840655"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cobalt/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
 - type: x-blog
   url: https://cobalt.io/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cobalt-io
+- type: x-email
+  url: hello@cobalt.io
+- type: x-email
+  url: demo@cobalt.io
+- type: x-email
+  url: support@cobalt.io
+- type: x-email
+  url: partner@cobalt.io
+- type: x-email
+  url: press@cobalt.io
+- type: x-email
+  url: info@cobalt.io
 - type: x-twitter
   url: https://twitter.com/cobalt_io
 - type: x-website

@@ -1,0 +1,1648 @@
+{
+	"name": "Streadata.io API Gallery - Security",
+	"description": "This is a repository of security APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/security.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://security.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Firebase",
+			"x-api-slug": "firebase",
+			"description": "Firebase is a mobile platform that gives developers the tools and infrastructure to build better apps and grow successful businesses.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png",
+			"humanURL": "https://Firebase.google.com",
+			"baseURL": "https://{project_id].firebaseio.co}//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/firebase/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AT&T Dev Program",
+			"x-api-slug": "att-dev-program",
+			"description": "AT&T Official Site. Premium entertainment, the latest cell phones & tablets, unlimited data plans, and high-speed internet. Join the nations best network today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg",
+			"humanURL": "http://att.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/att-dev-program/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BMC Software",
+			"x-api-slug": "bmc-software",
+			"description": "Transform your digital enterprise with BMC IT solutions. From mainframe to cloud to mobile, we???ll help you drive innovation and industrial efficiency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/713-bmc-software.jpg",
+			"humanURL": "http://www.bmc.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/bmc-software/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Janrain",
+			"x-api-slug": "janrain",
+			"description": "The Janrain User Management Platform (JUMP) helps organizations succeed on the social web by providing leading technology to leverage the popularity of social networks and identities for user acquisition, engagement, and enhanced customer intelligence. Our solutions, including social login, social sharing, social profile data collection and storage, access to the social graph, game mechanics, and digital strategy services, improve the effectiveness of online marketing initiatives for leading brands like Fox, Universal Music Group, Whole Foods, MTV, Purina, Avis and Dr Pepper.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/825-janrain.jpg",
+			"humanURL": "http://janrain.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/janrain/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "miiCard",
+			"x-api-slug": "miicard",
+			"description": "miiCard (My Internet Identity) is a global Identity as a Service solution that proves &lsquo;you are who you say you are&rsquo;, purely online, in minutes and to the same level as a physical passport or photo ID check. Through a patented process that leverages the trust between an individual and their financial institution, miiCard establishes identity to Level of Assurance 3+ and meets Know Your Customer and Anti-Money Laundering identity guidelines, enabling the sale of regulated products and services purely online. Combining online identity proofing with strong authentication, miiCard provides the trust and security required for people and businesses to meet and transact with confidence in a purely digital environment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/847_logo.png",
+			"humanURL": "http://www.miicard.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/miicard/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "scrypt",
+			"x-api-slug": "scrypt",
+			"description": "",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.sfaxme.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/scrypt/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Duo Security",
+			"x-api-slug": "duo-security",
+			"description": "Duo???s Trusted Access platform verifies the identity of your users with two-factor authentication and security health of their devices before they connect to the apps you want them to access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1050-duo-security.jpg",
+			"humanURL": "http://www.duosecurity.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/duo-security/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IDrive",
+			"x-api-slug": "idrive",
+			"description": "Built with developers in mind, IDrive Encrypted Versioned file System is a powerful, easy to use service that provides secure, encrypted and versioned cloud storage. Unlike other generic storage systems, IDrive EVS has storage encryption, versioning and block level incremental transfers built in both-ways for uploads and downloads. This gives you the freedom to develop innovative applications to customize your Backup, Storage, Sync, Sharing, Disaster recovery and more that are highly efficient, scalable and require minimal coding. It provides powerful APIs for uploading, retrieving, managing data and storage, at any time, from anywhere on the Internet.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1055-idrive-online-backup.jpg",
+			"humanURL": "https://www.idrive.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/idrive/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LoginRadius",
+			"x-api-slug": "loginradius",
+			"description": "Simplify customer authentication and authorization to amplify your business with better understanding of your audience using our customer identity management",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1086-loginradius.jpg",
+			"humanURL": "http://www.loginradius.com/",
+			"baseURL": ":///login/http://localhost:8008/_matrix/client/api/v1",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/loginradius/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SmartBear Software",
+			"x-api-slug": "smartbear-software",
+			"description": "Testing and Development teams around the world use SmartBears automation, development and monitoring tools to build better software and applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1157-smartbear-software.jpg",
+			"humanURL": "http://smartbear.com/",
+			"baseURL": "://testserver.readyapi.io:8080//v1",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/smartbear-software/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "VoiceVault",
+			"x-api-slug": "voicevault",
+			"description": "VoiceVault sets the standard for voice biometric authentication with identity verification solutions for mobile, on-device and telephony applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1211-voicevault.jpg",
+			"humanURL": "https://voicevault.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/voicevault/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yubico",
+			"x-api-slug": "yubico",
+			"description": "Get the YubiKey, the #1 security key, offering strong two factor authentication from industry leader Yubico.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1227-yubico.jpg",
+			"humanURL": "http://www.yubico.com/web-api-clients",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/yubico/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Authy",
+			"x-api-slug": "authy",
+			"description": "Two-factor authentication (2FA) adds an additional layer of protection beyond passwords. Download our free app today and follow our easy to use guides to protect your accounts and personal information.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1306-authy.jpg",
+			"humanURL": "https://www.authy.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/authy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BioID Web Services",
+			"x-api-slug": "bioid-web-services",
+			"description": "BioID offers unique anonymous multimodal biometric authentication services for face recognition and voice recognition with strong privacy protection. Find relevant background information on periocular eye recognition and anti-spoofing liveness detectio...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1311-bioid-web-services.jpg",
+			"humanURL": "http://www.bioid.com/products/bws/apis.html",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/bioid-web-services/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fastly",
+			"x-api-slug": "fastly",
+			"description": "Fastlys edge cloud platform powers fast, secure, and scalable digital experiences.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1414-fastly.jpg",
+			"humanURL": "http://www.fastly.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/fastly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sift Science",
+			"x-api-slug": "sift-science",
+			"description": "Block fraud, provide a better customer experience, and grow your revenue through the machine learning Sift Science Trust Platform. Fast, accurate, and reliable data. Talk to a fraud expert today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1475-sift-science.jpg",
+			"humanURL": "https://siftscience.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/sift-science/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cisco Unity Connection Messaging Interface",
+			"x-api-slug": "cisco-unity-connection-messaging-interface",
+			"description": "The Cisco Unity Connection Messaging Interface (CUMI) is a messaging API for Cisco Unity Connection that has been designed to be stable and simple to use. It is based on leading industry standards for web-based API development, and provides access to a wide set of Connection messaging functionality.",
+			"image": "",
+			"humanURL": "http://docwiki.cisco.com/wiki/Cisco_Unity_Connection_Messaging_Interface_%28CUMI%29_API",
+			"baseURL": "https://api.cisco.com//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cisco-unity-connection-messaging-interface/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Animetrics",
+			"x-api-slug": "animetrics",
+			"description": "Animetrics is a leading developer of advanced 3D face recognition applications and face identity management solutions. www.Animetrics.com",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1767-animetrics.jpg",
+			"humanURL": "http://api.animetrics.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/animetrics/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Quttera",
+			"x-api-slug": "quttera",
+			"description": "Free online heuristic URL scanning and malware detection. Scan websites for malware, exploits and other infections with quttera detection engine to check if the site is safe to browse. Check website for malicious pages and online threats. Monitor websi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1783-quttera.jpg",
+			"humanURL": "http://quttera.com/quttera-web-malware-scanner-api",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/quttera/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LoginTC",
+			"x-api-slug": "logintc",
+			"description": "The Best Solution for Two Factor Authentication. The most simple and secure way to protect company logins from account takeovers and data theft.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1800-logintc.jpg",
+			"humanURL": "https://www.logintc.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/logintc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dome9 Security",
+			"x-api-slug": "dome9-security",
+			"description": "Dome9 delivers full visibility, control and faster time to protection as organizations scale in AWS, Azure and Google Cloud environments. Get started now.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1834-dome9-security.jpg",
+			"humanURL": "http://dome9.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/dome9-security/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Signifyd",
+			"x-api-slug": "signifyd",
+			"description": "As the largest provider of Guaranteed Fraud Protection we detect fraudulent orders and reimburse merchants for fraud chargebacks on any order we approved.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1941-signifyd.jpg",
+			"humanURL": "https://www.signifyd.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/signifyd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "University of Warwick",
+			"x-api-slug": "university-of-warwick",
+			"description": "The official home of Warwick Students Union on Facebook. Click Like for all the latest info about events, campaigns and happenings at your SU.     Its your Union. Be part of it!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2056-university-of-warwick.jpg",
+			"humanURL": "http://www.warwicksu.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/university-of-warwick/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ManagedMethods",
+			"x-api-slug": "managedmethods",
+			"description": "ManagedMethods makes cloud security easy with tools that provide visibility and control of Google G Suite, Office 365 and many other popular cloud apps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2953-managedmethods-inc.jpg",
+			"humanURL": "http://managedmethods.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/managedmethods/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BlackStratus",
+			"x-api-slug": "blackstratus",
+			"description": "Unparalleled security visibility without costly downtime. Compliant operations made simple. Try BlackStatus managed security services & solutions for MSPs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9070-blackstratus.jpg",
+			"humanURL": "http://www.blackstratus.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/blackstratus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Red Canary",
+			"x-api-slug": "red-canary",
+			"description": "Every organization needs detection and response capabilities to defend against today???s threats. Learn how Red Canary can help your company stay protected.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18713-red-canary.jpg",
+			"humanURL": "https://www.redcanary.co/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/red-canary/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cobalt",
+			"x-api-slug": "cobalt",
+			"description": "Cobalt.io is the future of penetration testing. We leverage global talent and a software platform to deliver a better penetration test.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18903-cobalt.jpg",
+			"humanURL": "https://cobalt.io/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cobalt/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "APIBond",
+			"x-api-slug": "apibond",
+			"description": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png",
+			"humanURL": "http://apibond.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/apibond/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MetaCert",
+			"x-api-slug": "metacert",
+			"description": "Data loss detection and prevention for companies that use Team Collaboration services. Protection against malicious and unwanted URLs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18922-metacert.jpg",
+			"humanURL": "https://metacert.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/metacert/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CloudFlare",
+			"x-api-slug": "cloudflare",
+			"description": "Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18929-cloudflare.jpg",
+			"humanURL": "https://www.cloudflare.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cloudflare/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Crosscheck Networks",
+			"x-api-slug": "crosscheck-networks",
+			"description": "Web services testing",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/crosscheck-networks.png",
+			"humanURL": "http://www.crosschecknet.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/crosscheck-networks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apica",
+			"x-api-slug": "apica",
+			"description": "Apicas performance testing and monitoring solutions provide critical peak performance data and 24/7 monitoring of applications and sites around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19004-apica.jpg",
+			"humanURL": "https://www.apicasystem.com",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/apica/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Arxan Technologies",
+			"x-api-slug": "arxan-technologies",
+			"description": "Arxan is the trusted leader in application security, protecting applications from the inside out, so they are shielded from app-level attacks that lead to brand damage and financial loss.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19063-arxan-technologies.jpg",
+			"humanURL": "https://www.arxan.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/arxan-technologies/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SECful",
+			"x-api-slug": "secful",
+			"description": "SECful is a cloud-based security, providing detection of the attackers at the beginning of their research stage and preventing APTs and zero-day attacks by securing web and mobile applications APIs specifically.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19065-secful.jpg",
+			"humanURL": "http://www.secful.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/secful/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Light Blue Touchpaper",
+			"x-api-slug": "light-blue-touchpaper",
+			"description": "Light Blue Touchpaper is a weblog written by researchers in the Security Group at the University of Cambridge Computer Laboratory. Read here brief and timely essays on recent developments and topics related to computer security, including pointers to interesting new research results and literature, opinions on current developments, commentary on media coverage and other musings.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Light_Blue_Touchpaper___Security_Research__Computer_Laboratory__University_of_Cambridge.png",
+			"humanURL": "https://www.lightbluetouchpaper.org",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/light-blue-touchpaper/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rest Secured",
+			"x-api-slug": "rest-secured",
+			"description": "Test your enterprise API against any malicious penetration. An @efLDN company.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19786-rest-secured.jpg",
+			"humanURL": "http://www.restsecured.xyz/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/rest-secured/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DigiCert",
+			"x-api-slug": "digicert",
+			"description": "SSL certificates by DigiCert secure unlimited servers with the strongest encryption and highest authentication available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19949-digicert.jpg",
+			"humanURL": "https://www.digicert.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/digicert/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wickr",
+			"x-api-slug": "wickr",
+			"description": "Smart teams and enterprises choose Wickr, the most secure, private, and compliance-ready collaboration platform trusted to protect your most critical communications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19959-wickr.jpg",
+			"humanURL": "https://wickr.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/wickr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sapience",
+			"x-api-slug": "sapience",
+			"description": "automated and modern API security testing",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19990-sapience.jpg",
+			"humanURL": "https://sapience.io/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/sapience/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Threatpost",
+			"x-api-slug": "threatpost",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Threatpost___The_first_stop_for_security_news.png",
+			"humanURL": "https://threatpost.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/threatpost/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Forum Systems",
+			"x-api-slug": "forum-systems",
+			"description": "Forum Systems, API Security Management is our focus. The Forum Sentry API Security Gateway enables code-free building of APIs",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20017-forum-systems.jpg",
+			"humanURL": "http://www.forumsys.com/en/homepage/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/forum-systems/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpenDNS",
+			"x-api-slug": "opendns",
+			"description": "OpenDNS was founded in 2006 and acquired by Cisco in 2015. Today, more than 12,000 business worldwide rely on our enterprise security products. Cisco Umbrella is a cloud security platform that provides the first line of defense against threats on the i...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20022-opendns.jpg",
+			"humanURL": "https://www.opendns.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/opendns/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ThreatConnect",
+			"x-api-slug": "threatconnect",
+			"description": "ThreatConnect, Inc. is the leading provider of advanced threat intelligence products and services including ThreatConnect, the most comprehensive Threat Intelligence Platform (TIP) on the market. ThreatConnect delivers a single platform in the cloud a...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20028-threatconnect.jpg",
+			"humanURL": "https://www.threatconnect.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/threatconnect/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cisco Continuum",
+			"x-api-slug": "cisco-continuum",
+			"description": "Cisco is the worldwide leader in IT and networking. We help companies of all sizes transform how people connect, communicate, and collaborate.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20032-cisco-continuum.jpg",
+			"humanURL": "http://continuum.cisco.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cisco-continuum/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Crowdstrike",
+			"x-api-slug": "crowdstrike",
+			"description": "CrowdStrike is the leader in next-generation endpoint protection, threat intelligence and incident response through cloud-based endpoint protection.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20044-crowdstrike.jpg",
+			"humanURL": "https://www.crowdstrike.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/crowdstrike/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Farsight Security",
+			"x-api-slug": "farsight-security",
+			"description": "Farsight Security provides real-time actionable cyber security data solutions for Threat Intelligence, SOC and Incident Response teams",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20048-farsight-security.jpg",
+			"humanURL": "https://www.farsightsecurity.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/farsight-security/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RiskIQ",
+			"x-api-slug": "riskiq",
+			"description": "Whether you are investigating threats, monitoring your attack surface, or mitigating brand abuse - arm yourself with digital security intelligence from RiskIQ.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20057-riskiq.jpg",
+			"humanURL": "https://www.riskiq.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/riskiq/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OWASP API Security Project",
+			"x-api-slug": "owasp-api-security-project",
+			"description": "This project is designed to address the ever-increasing number of organizations that are deploying potentially sensitive APIs as part of their software offerings. These APIs are used for internal tasks and to interface with third parties. Unfortunately, many APIs do not undergo the rigorous security testing that would render them secure from attack.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OWASP_API_Security_Project_-_OWASP.png",
+			"humanURL": "https://www.owasp.org/index.php/OWASP_API_Security_Project",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/owasp-api-security-project/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fallible",
+			"x-api-slug": "fallible",
+			"description": "Fallible secures your API endpoints and protects you from data breaches.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20062-fallible.jpg",
+			"humanURL": "https://fallible.co/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/fallible/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StackPath",
+			"x-api-slug": "stackpath",
+			"description": "StackPath is the intelligent web services platform for security, speed and scale. It is the first platform to unify enterprise security solutions by leveraging collaborative intelligence that makes each service smarter and more secure with every threat detected, in addition to vastly improving the customer experience. More than 30,000 customers, ranging from Fortune 100 companies to early stage startups already use StackPath technology. Headquartered in Dallas, Texas, StackPath has offices across the U.S. and internationally.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Stackpath.jpg",
+			"humanURL": "https://www.stackpath.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/stackpath/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flir",
+			"x-api-slug": "flir",
+			"description": "FLIR is the world leader in the design, manufacture, and marketing of thermal imaging infrared cameras.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20081-flir.jpg",
+			"humanURL": "http://flir.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/flir/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Metapacket",
+			"x-api-slug": "metapacket",
+			"description": "We verify the source of each session and validate that it was generated by humans in your network. Automated processes are whitelisted and anything remaining is malware. Unlike other solutions that rely on intelligence or signatures, our solution can detect and block zero-day malware and the most advanced persistent threats to date. Out of the box would have detected and prevented hacks such as ones to the DNC,OPM,Sony, and others. Metapacket automatically blocks malware and exploitation attempts including from unknown or zero-day threats and generates highly-focused and clear incident reports.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/metapacket.png",
+			"humanURL": "http://metapacket.com/",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/metapacket/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Snowball",
+			"x-api-slug": "aws-snowball",
+			"description": "Snowball is a petabyte-scale data transport solution that uses secure appliances totransfer large amounts of datainto and out of theAWS cloud. Using Snowball addresses common challenges with large-scale data transfers including high network costs, long transfer times, and security concerns. Transferring data with Snowball is simple, fast, secure, and can be as little as one-fifth the cost of high-speed Internet.With Snowball, you don&rsquo;t need to write any code or purchase any hardware to transfer your data. Simply create a job in the AWS Management Console and a Snowball appliance will be automatically shipped to you*. Once it arrives, attach the appliance to your local network, download and run the Snowball client to establish a connection, and then use the client to select the file directories that you want to transfer to the appliance. The client will then encrypt and transfer the files to the appliance at high speed. Once the transfer is complete and the appliance is ready to be returned, the E Ink shipping label will automatically update and you can track the job status viaAmazon Simple Notification Service (SNS), text messages, or directly in the Console.Snowball uses multiple layers of security designed to protect your data including tamper-resistant enclosures, 256-bit encryption, and an industry-standard Trusted Platform Module (TPM) designed to ensure both security and full chain-of-custody of your data. Once the data transfer job has been processed and verified, AWS performs a software erasure of the Snowball appliance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSImportExportSnowball.png",
+			"humanURL": "https://aws.amazon.com/snowball/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-snowball/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS RDS",
+			"x-api-slug": "aws-rds",
+			"description": "Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale arelational databasein the cloud. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks, freeing you up to focus on your applications and business. Amazon RDS provides you six familiar database engines to choose from, includingAmazon Aurora,PostgreSQL,MySQL,MariaDB,Oracle, andMicrosoft SQL Server.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRDS.png",
+			"humanURL": "https://aws.amazon.com/rds/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-rds/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS ElastiCache",
+			"x-api-slug": "aws-elasticache",
+			"description": "Amazon ElastiCache is a web service that makes it easy to deploy, operate, and scale an in-memory data store or cache in the cloud. The service improves the performance of web applications by allowing you to retrieve information from fast, managed, in-memory data stores, instead of relying entirely on slower disk-based databases. Amazon ElastiCache automatically detects and replaces failed nodes, reducing the overhead associated with self-managed infrastructures and provides a resilient system that mitigates the risk of overloaded databases, which slow website and application load times. Through integration with Amazon CloudWatch, Amazon ElastiCache provides enhanced visibility into key performance metrics associated with your Redis or Memcached nodes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonElasticCache.png",
+			"humanURL": "https://aws.amazon.com/elasticache/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elasticache/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Redshift",
+			"x-api-slug": "aws-redshift",
+			"description": "Amazon Redshift is a fast, fully managed, petabyte-scaledata warehousethat makes it simple and cost-effective to analyze all your data using your existing business intelligence tools. Start small for $0.25 per hour with no commitments and scale to petabytes for $1,000 per terabyte per year, less than a tenth the cost of traditional solutions. Customers typically see 3x compression, reducing their costs to $333 per uncompressed terabyte per year.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRedshift.png",
+			"humanURL": "https://aws.amazon.com/redshift/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Config",
+			"x-api-slug": "aws-config",
+			"description": "AWS Config is a fully managed service that provides you with an AWS resource inventory, configuration history, and configuration change notifications to enable security and governance. Config Rules enables you to create rules that automatically check the configuration of AWS resources recorded by AWS Config.With AWS Config, you can discover existing and deleted AWS resources, determine your overall compliance against rules, and dive into configuration details of a resource at any point in time. These capabilities enable compliance auditing, security analysis, resource change tracking, and troubleshooting.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSConfig.png",
+			"humanURL": "https://aws.amazon.com/config/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-config/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Identity and Access Management",
+			"x-api-slug": "aws-identity-and-access-management",
+			"description": "AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your users. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.IAM is a feature of your AWS account offered at no additional charge. You will be charged only for use of other AWS services by your users.To get started using IAM, orif you have already registered with AWS, go to theAWS Management Consoleand get started with theseIAM Best Practices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM.png",
+			"humanURL": "https://aws.amazon.com/iam/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-identity-and-access-management/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Security Token Service",
+			"x-api-slug": "aws-security-token-service",
+			"description": "The AWS Security Token Service (STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users or for users that you authenticate (federated users).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM_AWSSTS.png",
+			"humanURL": "http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-security-token-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Inspector",
+			"x-api-slug": "aws-inspector",
+			"description": "Amazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS. Amazon Inspector automatically assesses applications for vulnerabilities or deviations from best practices. After performing an assessment, Amazon Inspector produces a detailed list of security findings prioritized by level of severity.To help you get started quickly, Amazon Inspector includes a knowledge base of hundreds of rules mapped to common security best practices and vulnerability definitions. Examples of built-in rules include checking for remote root login being enabled, or vulnerable software versions installed. These rules are regularly updated by AWS security researchers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png",
+			"humanURL": "https://aws.amazon.com/inspector/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-inspector/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Certificate Manager",
+			"x-api-slug": "aws-certificate-manager",
+			"description": "AWS Certificate Manager is a service that lets you easily provision, manage, and deploy Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for use with AWS services. SSL/TLS certificates are used to secure network communications and establish the identity of websites over the Internet. AWS Certificate Manager removes the time-consuming manual process of purchasing, uploading, and renewing SSL/TLS certificates. With AWS Certificate Manager, you can quickly request a certificate, deploy it on AWS resources such as Elastic Load Balancers or Amazon CloudFront distributions, and let AWS Certificate Manager handle certificate renewals. SSL/TLS certificates provisioned through AWS Certificate Manager are free. You pay only for the AWS resources you create to run your application.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png",
+			"humanURL": "https://aws.amazon.com/certificate-manager/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-certificate-manager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Directory Service",
+			"x-api-slug": "aws-directory-service",
+			"description": "AWS Directory Service for Microsoft Active Directory (Enterprise Edition), also known as AWS Microsoft AD, enables your directory-aware workloads and AWS resources to use managed Active Directory in the AWS Cloud. The Microsoft AD service is built on actual Microsoft Active Directory and does not require you to synchronize or replicate data from your existing Active Directory to the cloud. You can use standard Active Directory administration tools and take advantage of built-in Active Directory features such as Group Policy, trusts, and single sign-on. With Microsoft AD, you can easily joinAmazon EC2andAmazon RDS for SQL Serverinstances to a domain, and useAWS Enterprise IT applicationssuch asAmazon WorkSpaceswith Active Directory users and groups.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png",
+			"humanURL": "https://aws.amazon.com/directoryservice/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-directory-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Key Management Service",
+			"x-api-slug": "aws-key-management-service",
+			"description": "AWS Key Management Service (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses Hardware Security Modules (HSMs) to protect the security of your keys. AWS Key Management Service is integrated with several other AWS services to help you protect the data you store with these services. AWS Key Management Service is also integrated with AWS CloudTrail to provide you with logs of all key usage to help meet your regulatory and compliance needs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-key-management.jpg",
+			"humanURL": "https://aws.amazon.com/kms/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-key-management-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS WAF",
+			"x-api-slug": "aws-waf",
+			"description": "AWS WAF is a web application firewall that helps protect your webapplications from common web exploits that could affect applicationavailability, compromise security, or consume excessive resources. AWSWAF gives you control over which traffic to allow or block to your webapplications by defining customizable web security rules. You can use AWSWAF to create custom rules that block common attack patterns, such as SQLinjection or cross-site scripting, and rules that are designed for your specific application. New rules can be deployed within minutes, letting you respondquickly to changing traffic patterns. Also, AWS WAF includes a full-featuredAPI that you can use to automate the creation, deployment, and maintenanceof web security rules.With AWS WAF you pay only for what you use. AWS WAF pricing is based on how many rules you deploy and how many web requests your web application receives. There are no upfront commitments.You can deploy AWS WAF on either Amazon CloudFront as part of your CDN solution or the Application Load Balancer (ALB) that fronts your web servers or origin servers running on EC2.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSWAF.png",
+			"humanURL": "https://aws.amazon.com/waf/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-waf/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Elastic MapReduce",
+			"x-api-slug": "aws-elastic-mapreduce",
+			"description": "Amazon EMR provides a managed Hadoop framework that makes it easy, fast, and cost-effective to process vast amounts of data across dynamically scalable Amazon EC2 instances. You can also run other popular distributed frameworks such as Apache Spark, HBase, Presto, and Flink in Amazon EMR, and interact with data in other AWS data stores such as Amazon S3 and Amazon DynamoDB.Amazon EMR securely and reliably handles a broad set of big data use cases, including log analysis, web indexing, data transformations (ETL), machine learning, financial analysis, scientific simulation, and bioinformatics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png",
+			"humanURL": "https://aws.amazon.com/emr/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elastic-mapreduce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2",
+			"x-api-slug": "aws-ec2",
+			"description": "Amazon Elastic Compute Cloud is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon&rsquo;s proven computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change. Amazon EC2 changes the economics of computing by allowing you to pay only for capacity that you actually use. Amazon EC2 provides developers the tools to build failure resilient applications and isolate themselves from common failure scenarios.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-ec2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Elastic Load Balancing",
+			"x-api-slug": "aws-elastic-load-balancing",
+			"description": "Elastic Load Balancing automatically distributes incoming application traffic across multiple Amazon EC2 instances. It enables you to achieve fault tolerance in your applications, seamlessly providing the required amount of load balancing capacity needed to route application traffic.Elastic Load Balancing offers two types of load balancers that both feature high availability, automatic scaling, and robust security. These include theClassic Load Balancerthat routes traffic based on either application or network level information, and theApplication Load Balancerthat routes traffic based on advanced application level information that includes the content of the request. The Classic Load Balancer is ideal for simple load balancing of traffic across multiple EC2 instances, while the Application Load Balancer is ideal for applications needing advanced routing capabilities, microservices, and container-based architectures. Application Load Balancer offers ability to route traffic to multiple services or load balance across multiple ports on the same EC2 instance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_ElasticLoadBalancing.png",
+			"humanURL": "https://aws.amazon.com/elasticloadbalancing/",
+			"baseURL": ":///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elastic-load-balancing/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Key Management Service",
+			"x-api-slug": "google-cloud-key-management-service",
+			"description": "Cloud KMS is a cloud-hosted key management service that lets you manage encryption for your cloud services the same way you do on-premises. You can generate, use, rotate and destroy AES256 encryption keys. Cloud KMS is integrated with IAM and Cloud Audit Logging so that you can manage permissions on individual keys, and monitor how these are used. Use Cloud KMS to protect secrets and other sensitive data which you need to store in Google Cloud Platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kms-lead.png",
+			"humanURL": "https://cloud.google.com/kms/",
+			"baseURL": "://cloudkms.googleapis.com//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/google-cloud-key-management-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google OAuth2",
+			"x-api-slug": "google-oauth2",
+			"description": "Google APIs use the OAuth 2.0 protocol for authentication and authorization. Google supports common OAuth 2.0 scenarios such as those for web server, installed, and client-side applications. To begin, obtain OAuth 2.0 client credentials from the Google API Console. Then your client application requests an access token from the Google Authorization Server, extracts a token from the response, and sends the token to the Google API that you want to access. For an interactive demonstration of using OAuth 2.0 with Google (including the option to use your own client credentials), experiment with the OAuth 2.0 Playground.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-OAuth@2x.png",
+			"humanURL": "https://developers.google.com/identity/protocols/OAuth2",
+			"baseURL": "://www.googleapis.com//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/google-oauth2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Safe Browsing",
+			"x-api-slug": "google-safe-browsing",
+			"description": "The Safe Browsing APIs (v4) let your client applications check URLs against Googles constantly updated lists of unsafe web resources. Examples of unsafe web resources are social engineering sites (phishing and deceptive sites) and sites that host malware or unwanted software. Any URL found on a Safe Browsing list is considered unsafe.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SafeBrowsing_Icon.png",
+			"humanURL": "https://developers.google.com/safe-browsing/",
+			"baseURL": "://safebrowsing.googleapis.com//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/google-safe-browsing/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Site Verification",
+			"x-api-slug": "google-site-verification",
+			"description": "The Google Site Verification API lets you develop applications or services that automate the process of verifying that the authenticated user owns a domain or website. This is important, since some Google services can only be used by site owners.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-site-verification-500x362.png",
+			"humanURL": "https://developers.google.com/site-verification/",
+			"baseURL": "://www.googleapis.com//siteVerification/v1",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/google-site-verification/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Advisor",
+			"x-api-slug": "azure-advisor",
+			"description": "Azure Advisor is a personalized recommendation engine that helps you follow Azure best practices. It analyzes your Azure resource configuration and usage telemetry, then provides recommendations that can reduce costs and improve the performance, security, and reliability of your applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/improve-what-matters.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/advisor/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-advisor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Key Vault",
+			"x-api-slug": "azure-key-vault",
+			"description": "Azure Key Vault offers an easy, cost-effective way to safeguard keys and other secrets in the cloud by using hardware security modules (HSMs). Protect cryptographic keys and small secrets like passwords with keys stored in HSMs. For added assurance, import or generate your keys in HSMs that are certified to FIPS 140-2 level 2 and Common Criteria EAL4+ standards, so that your keys stay within the HSM boundary. Key Vault is designed so that Microsoft does not see or extract your keys. Create new keys for Dev-Test in minutes and migrate seamlessly to production keys managed by security operations. Key Vault scales to meet the demands of your cloud applications without the hassle required to provision, deploy, and manage HSMs and key management software.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-enhance-data-protection.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/key-vault/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-key-vault/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EnvKey",
+			"x-api-slug": "envkey",
+			"description": "Protect API keys and credentials. Keep configuration in sync everywhere.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28148-www-envkey-com.jpg",
+			"humanURL": "https://www.envkey.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/envkey/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mimecast",
+			"x-api-slug": "mimecast",
+			"description": "Mimecast is an international company specializing in cloud-based email management for Microsoft Exchange and Microsoft Office 365, including security, archiving, and continuity services to protect business mail.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mimecast-logo.png",
+			"humanURL": "https://www.mimecast.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/mimecast/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "aapi.io",
+			"x-api-slug": "aapi-io",
+			"description": "aapi makes API programming and management easy by transforming the way developers find, connect to, and secure APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28205-aapi-io.jpg",
+			"humanURL": "https://aapi.io",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aapi-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CloudLock",
+			"x-api-slug": "cloudlock",
+			"description": "The leading CASB and Cybersecurity-as-a-Service provider, protecting enterprises from compromised accounts, cloud malware, and data breaches in the cloud.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28321-cloudlock.jpg",
+			"humanURL": "http://cloudlock.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cloudlock/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GreyNoise Intelligence",
+			"x-api-slug": "greynoise-intelligence",
+			"description": "GreyNoise Intelligence is a cyber security company that collects, labels, and analyzes Internet-wide scan and attack data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28751-greynoise-io.jpg",
+			"humanURL": "https://greynoise.io",
+			"baseURL": "https:///",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/greynoise-intelligence/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Automox",
+			"x-api-slug": "automox",
+			"description": "Patch any System, any Software, in Any Location with Automox. Our cloud-based patching management software was built for todays IT professionals.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28761-docs-automox-com.jpg",
+			"humanURL": "https://automox.com",
+			"baseURL": "https://console.automox.com//api",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/automox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"x-api-slug": "ibm-financial-crimes-insight-for-insurance",
+			"description": "IBM&reg; Financial Crimes Insight&reg; for Insurance V3.0, formerly known as IBM Counter Fraud Management for Insurance, is now being offered as a cloud service offering. It helps organizations analyze data to determine the fraud risk of claims, medical providers, and other business entities, manage the full investigation lifecycle, and report on outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/WFS-Counter-Fraud-Technical-Level-3.png",
+			"humanURL": "https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=897/ENUS218-305&appname=USN",
+			"baseURL": "https://fcihost.ibm.com:9443//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/ibm-financial-crimes-insight-for-insurance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Security",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Security",
+	"include": [
+		{
+			"name": "Firebase",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/firebase/apis.yaml"
+		},
+		{
+			"name": "AT&T Dev Program",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/att-dev-program/apis.yaml"
+		},
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "BMC Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/bmc-software/apis.yaml"
+		},
+		{
+			"name": "Janrain",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/janrain/apis.yaml"
+		},
+		{
+			"name": "miiCard",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/miicard/apis.yaml"
+		},
+		{
+			"name": "scrypt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/scrypt/apis.yaml"
+		},
+		{
+			"name": "Duo Security",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/duo-security/apis.yaml"
+		},
+		{
+			"name": "IDrive",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/idrive/apis.yaml"
+		},
+		{
+			"name": "LoginRadius",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/loginradius/apis.yaml"
+		},
+		{
+			"name": "SmartBear Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/smartbear-software/apis.yaml"
+		},
+		{
+			"name": "VoiceVault",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/voicevault/apis.yaml"
+		},
+		{
+			"name": "Yubico",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/yubico/apis.yaml"
+		},
+		{
+			"name": "Authy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/authy/apis.yaml"
+		},
+		{
+			"name": "BioID Web Services",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/bioid-web-services/apis.yaml"
+		},
+		{
+			"name": "Fastly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/fastly/apis.yaml"
+		},
+		{
+			"name": "Sift Science",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/sift-science/apis.yaml"
+		},
+		{
+			"name": "Cisco Unity Connection Messaging Interface",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cisco-unity-connection-messaging-interface/apis.yaml"
+		},
+		{
+			"name": "Animetrics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/animetrics/apis.yaml"
+		},
+		{
+			"name": "Quttera",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/quttera/apis.yaml"
+		},
+		{
+			"name": "LoginTC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/logintc/apis.yaml"
+		},
+		{
+			"name": "Dome9 Security",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/dome9-security/apis.yaml"
+		},
+		{
+			"name": "Signifyd",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/signifyd/apis.yaml"
+		},
+		{
+			"name": "University of Warwick",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/university-of-warwick/apis.yaml"
+		},
+		{
+			"name": "ManagedMethods",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/managedmethods/apis.yaml"
+		},
+		{
+			"name": "BlackStratus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/blackstratus/apis.yaml"
+		},
+		{
+			"name": "Red Canary",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/red-canary/apis.yaml"
+		},
+		{
+			"name": "Cobalt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cobalt/apis.yaml"
+		},
+		{
+			"name": "APIBond",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/apibond/apis.yaml"
+		},
+		{
+			"name": "MetaCert",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/metacert/apis.yaml"
+		},
+		{
+			"name": "CloudFlare",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cloudflare/apis.yaml"
+		},
+		{
+			"name": "Crosscheck Networks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/crosscheck-networks/apis.yaml"
+		},
+		{
+			"name": "Apica",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/apica/apis.yaml"
+		},
+		{
+			"name": "Arxan Technologies",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/arxan-technologies/apis.yaml"
+		},
+		{
+			"name": "SECful",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/secful/apis.yaml"
+		},
+		{
+			"name": "Light Blue Touchpaper",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/light-blue-touchpaper/apis.yaml"
+		},
+		{
+			"name": "Rest Secured",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/rest-secured/apis.yaml"
+		},
+		{
+			"name": "DigiCert",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/digicert/apis.yaml"
+		},
+		{
+			"name": "Wickr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/wickr/apis.yaml"
+		},
+		{
+			"name": "Sapience",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/sapience/apis.yaml"
+		},
+		{
+			"name": "Threatpost",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/threatpost/apis.yaml"
+		},
+		{
+			"name": "Forum Systems",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/forum-systems/apis.yaml"
+		},
+		{
+			"name": "OpenDNS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/opendns/apis.yaml"
+		},
+		{
+			"name": "ThreatConnect",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/threatconnect/apis.yaml"
+		},
+		{
+			"name": "Cisco Continuum",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cisco-continuum/apis.yaml"
+		},
+		{
+			"name": "Crowdstrike",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/crowdstrike/apis.yaml"
+		},
+		{
+			"name": "Farsight Security",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/farsight-security/apis.yaml"
+		},
+		{
+			"name": "RiskIQ",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/riskiq/apis.yaml"
+		},
+		{
+			"name": "OWASP API Security Project",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/owasp-api-security-project/apis.yaml"
+		},
+		{
+			"name": "Fallible",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/fallible/apis.yaml"
+		},
+		{
+			"name": "StackPath",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/stackpath/apis.yaml"
+		},
+		{
+			"name": "Flir",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/flir/apis.yaml"
+		},
+		{
+			"name": "Metapacket",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/metapacket/apis.yaml"
+		},
+		{
+			"name": "AWS Snowball",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-snowball/apis.yaml"
+		},
+		{
+			"name": "AWS RDS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-rds/apis.yaml"
+		},
+		{
+			"name": "AWS ElastiCache",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elasticache/apis.yaml"
+		},
+		{
+			"name": "AWS Redshift",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-redshift/apis.yaml"
+		},
+		{
+			"name": "AWS Config",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-config/apis.yaml"
+		},
+		{
+			"name": "AWS Identity and Access Management",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-identity-and-access-management/apis.yaml"
+		},
+		{
+			"name": "AWS Security Token Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-security-token-service/apis.yaml"
+		},
+		{
+			"name": "AWS Inspector",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-inspector/apis.yaml"
+		},
+		{
+			"name": "AWS Certificate Manager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-certificate-manager/apis.yaml"
+		},
+		{
+			"name": "AWS Directory Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-directory-service/apis.yaml"
+		},
+		{
+			"name": "AWS Key Management Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-key-management-service/apis.yaml"
+		},
+		{
+			"name": "AWS WAF",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-waf/apis.yaml"
+		},
+		{
+			"name": "AWS Elastic MapReduce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elastic-mapreduce/apis.yaml"
+		},
+		{
+			"name": "AWS EC2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-ec2/apis.yaml"
+		},
+		{
+			"name": "AWS Elastic Load Balancing",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aws-elastic-load-balancing/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Key Management Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/google-cloud-key-management-service/apis.yaml"
+		},
+		{
+			"name": "Google OAuth2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/google-oauth2/apis.yaml"
+		},
+		{
+			"name": "Google Safe Browsing",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/google-safe-browsing/apis.yaml"
+		},
+		{
+			"name": "Google Site Verification",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/google-site-verification/apis.yaml"
+		},
+		{
+			"name": "Azure Advisor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-advisor/apis.yaml"
+		},
+		{
+			"name": "Azure Key Vault",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/azure-key-vault/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "EnvKey",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/envkey/apis.yaml"
+		},
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/axa-assistance/apis.yaml"
+		},
+		{
+			"name": "Mimecast",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/mimecast/apis.yaml"
+		},
+		{
+			"name": "aapi.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/aapi-io/apis.yaml"
+		},
+		{
+			"name": "CloudLock",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/cloudlock/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "GreyNoise Intelligence",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/greynoise-intelligence/apis.yaml"
+		},
+		{
+			"name": "Automox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/automox/apis.yaml"
+		},
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/ibm-financial-crimes-insight-for-insurance/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

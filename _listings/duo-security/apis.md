@@ -1,23 +1,16 @@
 ---
 name: Duo Security
-description: Duo Security enables protected login and transactional functions for
-  smartphones users. It does this by sending users authorization verification from
-  web-based platform to their phones, in addition to their login. Their REST API provides
-  integration to their two-factor authentication process. It is a RESTful API, and
-  returns JSON (defaut), BSON, and XML responses.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/duo-security.jpeg
+x-slug: duo-security
+description: Duo???s Trusted Access platform verifies the identity of your users with
+  two-factor authentication and security health of their devices before they connect
+  to the apps you want them to access.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1050-duo-security.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Two factor authentication
-- Stack Network
-- Security
-- Security
-- Mobile
-- Authentication
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/duo-security/apis.yaml
+x-alexaRank: "43544"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/duo-security/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -29,8 +22,26 @@ x-common:
   url: https://www.duosecurity.com/feed
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/duo-security
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/duo-security
 - type: x-developer
   url: https://www.duosecurity.com/api
+- type: x-email
+  url: support@duo.com
+- type: x-email
+  url: press@duo.com
+- type: x-email
+  url: privacy@duosecurity.com
+- type: x-email
+  url: mops@duosecurity.com
+- type: x-email
+  url: support@duosecurity.com
+- type: x-email
+  url: security@duosecurity.com
+- type: x-email
+  url: sally@duosecurity.com
+- type: x-email
+  url: eclat@duosecurity.com
 - type: x-pricing
   url: https://duo.com/pricing
 - type: x-twitter

@@ -1,30 +1,30 @@
 ---
 name: Yubico
-description: Yubico offers best-of-breed authentication solutions across mobile and
-  desktop devices. The companys flagship product, the YubiKeyreg; is an innovative,
-  driverless hardware device that can work seamlessly over NFC and USB to offer anytime,
-  anywhere authentication across a range of consumer and enterprise applications.
-  Yubico offers disruptive open source software and cloud based solutions allowing
-  enterprises to quickly adopt YubiKey based strong authentication for their employees,
-  partners and consumers.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/yubico-logo.png
+x-slug: yubico
+description: 'Get the YubiKey, the #1 security key, offering strong two factor authentication
+  from industry leader Yubico.'
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1227-yubico.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- TXT
-- Stack Network
-- Security
-- Cloud
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/yubico/apis.yaml
+x-alexaRank: "78346"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/yubico/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
 - type: x-base
   url: https://apiX.yubico.com/
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/yubico
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/yourmembership-com
+- type: x-email
+  url: jobs@yubico.com
+- type: x-email
+  url: order@yubico.com
+- type: x-email
+  url: press@yubico.com
 - type: x-twitter
   url: https://twitter.com/yubico
 - type: x-website

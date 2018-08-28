@@ -7,211 +7,242 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "383974"
 tags: Security
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Xignite Global Master Get Security
-  x-api-slug: xignite-global-master
+- name: Xignite Global Master - Get Security
+  x-api-slug: getsecurity-get
   description: Get a list of securities.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalmaster.xignite.com/xglobalmaster.json/XigniteGlobalMaster//GetSecurity
-  tags: Security
+  baseURL: https://globalmaster.xignite.com/xglobalmaster.json/XigniteGlobalMaster
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/getsecurity-get-openapi.md
-- name: Xignite Global Master
-  x-api-slug: xignite-global-master
-  description: Financial market data on-demand. Xignite financial Web services help
-    build smarter websites and applications in minutes with zero up-front investment.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
-  humanURL: http://www.xignite.com
-  baseURL: https://globalmaster.xignite.com/xglobalmaster.json/XigniteGlobalMaster
-  tags: Security
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/openapi.md
-- name: Xignite Global News Get Top Releases By Security
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Top Releases By Security
+  x-api-slug: gettopreleasesbysecurity-get
   description: Return the top press releases for a security.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetTopReleasesBySecurity
-  tags: Market Data,Top, Releases, Security
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
-- name: Xignite Global News Get Historical Releases By Security
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Historical Releases By Security
+  x-api-slug: gethistoricalreleasesbysecurity-get
   description: Return press releases headlines for a security and a date range.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetHistoricalReleasesBySecurity
-  tags: Market Data,Historical, Releases, Security
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
-- name: Xignite Global News Get Top Security Headlines
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Top Security Headlines
+  x-api-slug: gettopsecurityheadlines-get
   description: Returns the most recent specified number of headlines for a given security.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetTopSecurityHeadlines
-  tags: Market Data,Top, Security, Headlines
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettopsecurityheadlines-get-openapi.md
-- name: Xignite Global News Get Todays Releases By Security
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Todays Releases By Security
+  x-api-slug: gettodaysreleasesbysecurity-get
   description: Return press releases for a security for today.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetTodaysReleasesBySecurity
-  tags: Market Data,Todays, Releases, Security
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
-- name: Xignite Global News Get Historical Security Headlines
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Historical Security Headlines
+  x-api-slug: gethistoricalsecurityheadlines-get
   description: Returns all headlines that were published in a specified time frame
     for a given security.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetHistoricalSecurityHeadlines
-  tags: Market Data,Historical, Security, Headlines
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
-- name: Xignite Global News Get Todays Security Headlines
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Todays Security Headlines
+  x-api-slug: gettodayssecurityheadlines-get
   description: Returns all headlines that were published today for a given security.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetTodaysSecurityHeadlines
-  tags: Market Data,Todays, Security, Headlines
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
-- name: Xignite Global News Get Recent Top Security Headlines
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Recent Top Security Headlines
+  x-api-slug: getrecenttopsecurityheadlines-get
   description: Returns 14 days specified number of headlines for a given security.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetRecentTopSecurityHeadlines
-  tags: Market Data,Recent, Top, Security, Headlines
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/getrecenttopsecurityheadlines-get-openapi.md
-- name: Xignite Global News Get Top Security Summaries
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Top Security Summaries
+  x-api-slug: gettopsecuritysummaries-get
   description: Returns all headline summaries that were published today for a given
     security.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetTopSecuritySummaries
-  tags: Market Data,Top, Security, Summaries
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettopsecuritysummaries-get-openapi.md
-- name: Xignite Global News Get Top Release Summaries By Security
-  x-api-slug: xignite-global-news
+- name: Xignite Global News - Get Top Release Summaries By Security
+  x-api-slug: gettopreleasesummariesbysecurity-get
   description: Return the top press releases summaries for a security.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml///GetTopReleaseSummariesBySecurity
-  tags: Market Data,Top, Release, Summaries, Security
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettopreleasesummariesbysecurity-get-openapi.md
-- name: Xignite Global News
-  x-api-slug: xignite-global-news
-  description: Financial market data on-demand. Xignite financial Web services help
-    build smarter websites and applications in minutes with zero up-front investment.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
-  humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
-  tags: Security
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/openapi.md
-- name: Xignite Releases Get Historical Security Headlines
-  x-api-slug: xignite-releases
+- name: Xignite Releases - Get Historical Security Headlines
+  x-api-slug: gethistoricalsecurityheadlines-get
   description: Returns headlines for a company and a date range.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://http://www.xignite.com//xReleases.xml//GetHistoricalSecurityHeadlines/
-  tags: Market Data,Historical,Security,Headlines
+  baseURL: https://http://www.xignite.com//xReleases.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gethistoricalsecurityheadlines-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
-- name: Xignite Releases Get Last Security Headlines
-  x-api-slug: xignite-releases
+- name: Xignite Releases - Get Last Security Headlines
+  x-api-slug: getlastsecurityheadlines-get
   description: Returns headlines for a company published since a specific date and
     time.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://http://www.xignite.com//xReleases.xml//GetLastSecurityHeadlines/
-  tags: Market Data,Last,Security,Headlines
+  baseURL: https://http://www.xignite.com//xReleases.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/getlastsecurityheadlines-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/getlastsecurityheadlines-get-openapi.md
-- name: Xignite Releases Get Todays Security Headlines
-  x-api-slug: xignite-releases
+- name: Xignite Releases - Get Todays Security Headlines
+  x-api-slug: gettodayssecurityheadlines-get
   description: Returns headlines for a company published today.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://http://www.xignite.com//xReleases.xml//GetTodaysSecurityHeadlines
-  tags: Market Data,Todays,Security,Headlines
+  baseURL: https://http://www.xignite.com//xReleases.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettodayssecurityheadlines-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
-- name: Xignite Releases Get Top Security Headlines
-  x-api-slug: xignite-releases
+- name: Xignite Releases - Get Top Security Headlines
+  x-api-slug: gettopsecurityheadlines-get
   description: Returns a given number of company headlines published most recently.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://http://www.xignite.com//xReleases.xml//GetTopSecurityHeadlines/
-  tags: Market Data,Top,Security,Headlines
+  baseURL: https://http://www.xignite.com//xReleases.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettopsecurityheadlines-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/gettopsecurityheadlines-get-openapi.md
-- name: Xignite Releases Search Security Headlines
-  x-api-slug: xignite-releases
+- name: Xignite Releases - Search Security Headlines
+  x-api-slug: searchsecurityheadlines-get
   description: Search headlines for a company across all companies based on date,
     source, and title.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: http://www.xignite.com
-  baseURL: https://http://www.xignite.com//xReleases.xml//SearchSecurityHeadlines/
-  tags: Market Data,Search,Security,Headlines
+  baseURL: https://http://www.xignite.com//xReleases.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/searchsecurityheadlines-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/searchsecurityheadlines-get-openapi.md
-- name: Xignite Releases
-  x-api-slug: xignite-releases
-  description: Financial market data on-demand. Xignite financial Web services help
-    build smarter websites and applications in minutes with zero up-front investment.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
-  humanURL: http://www.xignite.com
-  baseURL: https://http://www.xignite.com//xReleases.xml/
-  tags: Security
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/xignite/openapi.md
 x-common:
 - type: x--net-sdk
   url: http://xignite.github.io/DotNetSDK/
+- type: x-api-gallery
+  url: http://xibo.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://xignite.stack.network
 - type: x-base
   url: http://globalmaster.xignite.com
 - type: x-case-studies

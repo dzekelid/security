@@ -1,21 +1,14 @@
 ---
 name: Crosscheck Networks
-description: Crosscheck Networks is the global leader in API Testing, Simulation,
-  and Gateway technologies with product deployments in over 50,000 customer networks
-  worldwide. Comprehensive API testing includes functional automation, performance,
-  compliance and security testing with patented dynamic mutation technology.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cross-check-networks.png
+x-slug: crosscheck-networks
+description: Web services testing
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/crosscheck-networks.png
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Virtualization
-- Testing
-- Stack Network
-- Security
-- API Gateways
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/security/master/_listings/crosscheck-networks/apis.yaml
+x-alexaRank: "2094307"
+tags: Security
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/security/master/_listings/crosscheck-networks/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -23,6 +16,22 @@ x-common:
   url: http://soa-testing.blogspot.com/
 - type: x-blog-rss
   url: http://feeds.feedburner.com/soatesting?format=xml
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/crosscheck-networks
+- type: x-email
+  url: info@crosschecknet.com
+- type: x-email
+  url: sales@crosschecknet.com
+- type: x-email
+  url: info-apac@crosschecknet.com
+- type: x-email
+  url: sales-apac@crosschecknet.com
+- type: x-email
+  url: info-china@crosschecknet.com
+- type: x-email
+  url: sales-china@crosschecknet.com
+- type: x-twitter
+  url: https://twitter.com/crosschecknet
 - type: x-website
   url: http://www.crosschecknet.com/
 include: []
